@@ -12,19 +12,24 @@ body{
     color: #444444;
 
 }
+
+
 h1,h2,h3,h4{
     font-family: 'Inter', sans-serif;
     text-transform: uppercase;
     font-weight: 600;
     color: #222222;
 }
+
 #navbar{
     padding:10px;
     margin:0;
 }
+
 #logo{
     height:30px;
     }
+
 h1{
     text-align:center;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -73,11 +78,14 @@ h2{
     cursor: pointer;
 
 }
-#Banner{
+#banner{
     width: 100%;
-    object-fit: cover;
-    height: 40%;
 }
+
+#banner{
+    object-fit: cover;
+}
+
 #about{
     max-width:800px;
     display:flex;
