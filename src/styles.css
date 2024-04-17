@@ -79,11 +79,11 @@ h2{
 
 }
 #banner{
-    width: 100%;
+    object-fit: cover;
 }
 
 #banner{
-    object-fit: cover;
+    width: 100%;
 }
 
 #about{
